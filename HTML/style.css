@@ -1,0 +1,51 @@
+.titulo{
+    font-weight: bolder;
+    font-size: large;
+    color: rgb(0, 0, 0);
+    padding-left: 760px;
+}
+.menu{
+    background-color: grey;
+    padding-left:  550px;
+   
+}
+.a{
+    background-color: black;
+    padding-top: 20px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+.b{
+    background-color: black;
+    padding-top: 20px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+.c{
+    background-color: black;
+    padding-top: 20px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+.Inicio{
+    font-weight: bold;
+    font-size: medium;
+    color:white;
+    padding-left: 90px;
+    
+   
+}
+.acerca{
+    font-weight: bold;
+    font-size: medium;
+    color:white;
+    padding-left: 90px;
+}
+.productos{
+    font-weight: bold;
+    font-size: medium;
+    color:white;
+    padding-left: 90px;
+}
+
+
