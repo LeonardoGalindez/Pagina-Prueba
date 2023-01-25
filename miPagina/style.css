@@ -1,1 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
 
+#header{
+    margin:auto;
+    width: 1000px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul, ol{
+    list-style:none;
+}
+
+.nav li a{
+    color: rgb(255, 0, 0);
+    font-weight: 700;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+}
+
+.nav li a:hover{
+    background-color: rgb(219, 166, 166);
+}
+
+.nav li ul{
+    display: none;
+    position: absolute;
+    min-width: 140px;
+}
+
+.nav > li{
+    float:left;
+}
+
+.nav li:hover > ul{
+    display: block;
+}
+
+.nav li ul li {
+    position: relative;
+
+}
+
+.nav li ul li ul{
+    right: -140px;
+    top: 0px;
+
+}
