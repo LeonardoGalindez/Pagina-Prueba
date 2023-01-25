@@ -1,61 +1,6 @@
-html ,body{
-    margin: 0;
+html ,body {
+    margin:0;
     padding: 0;
-}
-.titulo{
-    font-weight: bolder;
-    font-size: large;
-    color: rgb(255, 0, 0);
-    padding-left: 760px;
-}
-.menu{
-    background-color: grey;
-    padding-left:  550px;
-   
-}
-.a{
-    background-color: black;
-    padding-top: 20px;
-    padding-right: 100px;
-    padding-bottom: 20px;
-}
-.b{
-    background-color: black;
-    padding-top: 20px;
-    padding-right: 100px;
-    padding-bottom: 20px;
-}
-.c{
-    background-color: black;
-    padding-top: 20px;
-    padding-right: 100px;
-    padding-bottom: 20px;
-}
-.Inicio{
-    font-weight: bold;
-    font-size: medium;
-    color:white;
-    padding-left: 90px;
-    
-   
-}
-.acerca{
-    font-weight: bold;
-    font-size: medium;
-    color:white;
-    padding-left: 90px;
-}
-.productos{
-    font-weight: bold;
-    font-size: medium;
-    color:white;
-    padding-left: 90px;
-}    
-.main{
-   width: 100%;
-   height: 100%;
-   position: absolute;
-   background-image: url("https://www.elgrafico.com.ar/media/cache/pub_news_details_large/media/i/53/fa/53facf1963a1053df0b35ebb8ce8a865706782d9.jfif");
 }
 
 
