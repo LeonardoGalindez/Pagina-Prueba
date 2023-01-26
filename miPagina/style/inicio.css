@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/549/947/617/computer-engineering-science-tech-wallpaper-preview.jpg");
+}
 
 #contenedor{
     margin: auto;
@@ -13,11 +16,13 @@
 header{
     background-color: blue;
     height: 100px;
+    border-radius: 15px;
 }
 
 header p{
-    font-size: 30px;
+    font-size: 20px;
     text-align: center;
+    line-height: 90px;
 }
 
 nav {
@@ -27,32 +32,32 @@ nav {
     height: 60px;
 }
 
-nav p{
-    font-size: 20px;
-    text-align: center;
-    line-height: 60px;
+nav ul li {
+    float: left;
 }
 
 #info{
     float: left;
     background-color: green;
     width: 1240px;
-    height: 500px;
+    height: 480px;
     margin-top: 10px;
     margin-right: 10px;
     margin-bottom: 10px;
+    border-radius: 15px;
 }
 
 #info p{
-    font-size: 40px;
+    font-size: 20px;
     text-align: center;
     line-height: 500px;
 }
 
 aside{
+    border-radius: 15px;
     background-color: rgb(255, 0, 170);
     width: 250px;
-    height: 500px;
+    height: 480px;
     margin-top: 10px;
     float: right;
 }
@@ -60,11 +65,13 @@ aside{
 aside p{
     text-align: center;
     line-height: 500px;
+    font-size: 20px;
 }
 
 footer{
     background: rgb(255, 7, 210);
     clear: both;
+    border-radius: 15px;
 }
 
 footer p{
